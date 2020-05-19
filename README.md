@@ -1,6 +1,6 @@
 # Play-a-Story---Design-Patterns-coded-in-Java
 # Create a character and make the character play various games using multiple Design Patterns; coded in Java
-# Once a character is creaated, user is allowed to choose a story from Thief, Mage or Warrior.
+# Once a character is created, user is allowed to choose a story from Thief, Mage or Warrior.
 # Based on the story chosen, the game goes on.
 
 Following Design Patterns are used:
